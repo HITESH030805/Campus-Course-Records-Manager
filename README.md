@@ -78,7 +78,7 @@ This project is built using Java SE and demonstrates a wide range of core Java c
 5.  **Verification:** Open a new command prompt and run `java -version` and `javac -version`.
 
 
-### Using Eclipse IDE
+### Using Intellij IDEA
 1.  Go to `File > New > Java Project`.
 2.  Enter a project name (e.g., `CCRM_Project`).
 3.  Select the appropriate JRE.
